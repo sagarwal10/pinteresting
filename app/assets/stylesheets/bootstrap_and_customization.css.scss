@@ -4,8 +4,8 @@ $navbar-inverse-link-color:#f1c40f;
 $navbar-height:60px;
 $btn-primary-color:#f1c40f;
 $jumbotron-bg:#f1c40f;
+@import 'bootstrap-sprockets';
 @import 'bootstrap';
-
 .center {
     text-align:center;
 }
